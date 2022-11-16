@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.name-projects {
+  font-weight: 800; 
+  font-size: 20px;
+}
